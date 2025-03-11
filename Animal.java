@@ -18,7 +18,7 @@ public class Animal {
     }
 
     private void test() {
-        System.out.println("i'm form parebt pvt methodssss");
+        System.out.println("i'm form parjkebt pvt metoohodss");
     }
 
     public void setName(String name) {
