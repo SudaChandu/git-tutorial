@@ -5,7 +5,7 @@ public class Animal {
     String name;
 
     public Animal () {
-        System.out.println("from def cons");
+        System.out.println("from def cons ver2");
     }
 
     public Animal(String name) {
