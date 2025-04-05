@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.*;
 #new version to check for fetch and pull;
 public class Animal {
-    String name;
+    String name="Jimmy";
 
     public Animal () {
         System.out.println("from def cons ver3");
